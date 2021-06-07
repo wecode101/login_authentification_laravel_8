@@ -1,10 +1,8 @@
 <h1 align="center"><a href="https://wecode101.com/laravel-login-authentication" target="_blank">WeCode101 Login Authentication </a></h1>
 
-This mini project shows how to validate your incoming data using Laravel 8.
+In this demo you will see how to use Laravel authentication to verify user login. 
 
-In this scenario we will create a "book" class and receive data "title" and "author" in order to store book records.
-
-Before you start ensure that you have a live database connection.
+Assuming that you have already connected and inserted a user to the database
 
 ## Steps to run project
 
